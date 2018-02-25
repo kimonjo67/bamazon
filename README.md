@@ -2,12 +2,12 @@
 The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 # Getting Started
-Clone repo.
-Run command in Terminal or Gitbash 'npm install'
-Run command:
+* Clone repo.
+* Run command in Terminal or Gitbash 'npm install'
+* Run command:
 'npm run bamazonCustomer.js'
-What Each JavaScript Does
-BamazonCustomer.js
+
+# What Each JavaScript Does
 
 * Prints the products in the store.
 
