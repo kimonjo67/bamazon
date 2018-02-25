@@ -21,15 +21,15 @@ BamazonCustomer.js
 * It will also update the product sales in the department table.
 
 # Technologies used
-Node.js
-Inquire NPM Package (https://www.npmjs.com/package/inquirer)
-MYSQL NPM Package (https://www.npmjs.com/package/mysql)
+* Node.js
+* Inquire NPM Package (https://www.npmjs.com/package/inquirer)
+* MYSQL NPM Package (https://www.npmjs.com/package/mysql)
 
 # Demo Video
 Watch the Demo here- https://www.youtube.com/watch?v=tQ9HVowq4G8
 # Built With
-VS Code - Text Editor
-MySQLWorkbench
-Terminal/Gitbash
+* VS Code - Text Editor
+* MySQLWorkbench
+* Terminal/Gitbash
 # Author
 Sam Mwangi
